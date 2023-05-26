@@ -1,0 +1,23 @@
+{
+    "name": "alvin/tp_2",
+    "require-dev": {
+        "phpunit/php-timer": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alvin\\Tp2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "validation",
+            "email": "ngoualemariel1@gmail.com"
+        }
+    ],
+    "autod": {
+        "psr-4":{
+            "validation\\":"src/"
+        }
+    },
+    "require": {}
+}
